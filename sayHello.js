@@ -1,4 +1,4 @@
-// Some comment
+// Some comment change for rebase
 function sayHello(name, surname) {
     console.log('Hello ${name} ${surname}');
 }
