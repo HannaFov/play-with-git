@@ -4,4 +4,3 @@ function sayHello(name, surname) {
 }
 sayHello('Robot', 'Dreams');
 // This code exports a function that logs a greeting message to the console.
-// end function 
