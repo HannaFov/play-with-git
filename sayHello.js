@@ -1,3 +1,4 @@
+// Some comment
 export function sayHello(name, surname) {
     console.log('${name} ${surname}');
 }
